@@ -1,6 +1,4 @@
-<h2 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+🌊ᴡᴀᴠʏ ᴍᴜsɪᴄ🌊+V2)](https://github.com/Shadow737hub/NishaMusic)
+<h2 align="center
 </h2>
 
 <h2 align="center">
