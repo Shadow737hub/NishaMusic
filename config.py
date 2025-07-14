@@ -14,19 +14,19 @@ API_HASH = getenv("API_HASH","7d91da02949db09dc81df55532c93863")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAGzXvqUklOpNBxtqwJ7xeGHg2m26ODSubM")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
+OWNER_USERNAME = getenv("OWNER_USERNAME","IVAN")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Ivanxmusics_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
+BOT_NAME = getenv("BOT_NAME" , "🌊ᴡᴀᴠʏ ᴍᴜsɪᴄ🌊")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "CuteNishaa")
+ASSUSERNAME = getenv("ASSUSERNAME" , "WAWYMUSIC")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nishamusic:Nothing0000@nishamusicbot.dg20jss.mongodb.net/?retryWrites=true&w=majority&appName=NishaMusicBot")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002553338682"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002734441374"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7381712992"))
+OWNER_ID = int(getenv("OWNER_ID", "7550591956"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SpicyxNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+hXY2z-kpAokwMDll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ivan_telegrams")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+m63eJ-Mc_jpjMzll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
