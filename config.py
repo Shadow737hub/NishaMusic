@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION",  "BQFrNrwAllBxwMoFCJTPrICEbtl0zOZ1dabVObhPRgVklQETKmYj_qs5RmqkvRGDv-5RghzesjkYbOzPvGBCD9GLsPnXF1i72BROvUbpExZmJCypxGA3eZK4qpHXfX8IaioTsIt3ZdlDhDuiIu61fUA0SZuCoRKD8eTfuwnvvnYQuO3aCsviQ312eaKCKkhClCQByC9MK9pdv82FR3r-qZxekj17ZJXou5uT4TwvDk3H_U7fnjf-GqHid84mmll5uYpqkmtjf43dw6EcTtKotv3CTZgnqcpHmcdylFLNb6xhKtzd-L-OtlbVmE_wJXaua3Gk9BkyxQmYh8DvDWbeOeh0KH6U-QAAAAF0VV_2AA")
+STRING1 = getenv("STRING_SESSION",  "BQCOaU4AgHyUugv9cizsPudbBpIUL2Lf7aCkQlnOfappPDXYj4jeCDYHd4Fb_LST9MFLO7T34-Vo3AwQ-iBqBk6If6qbamMBNglfYwj9NCh-P12iTR5LgP0RNcaVL1wbXe5HQJj8yqzDF_443xInbpoJ1ucYdREHOjtqlk-0KPet6eeJW4A1LAp_Ag11oDS-6kQAjY6wAPJ_HxU1TOYkQ91jiOgC49k-hp_HJR6dvPLVaM-Xs5gKXo8tFurFWgplovoGDJET6KO53zpPmAzzN5x3gDNansft4JvvnOFG2P-mP5Jt_hwvNGCfT9UkFzGoTNuCDu_Z3iSzgH1cNetZNf-kqXhKVQAAAAHTjGJ1AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -141,10 +141,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://graph.org/file/33fbec85bcf06dccc7c25-d3a85fd8fe85a3aab4.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "PING_IMG_URL", "https://graph.org/file/6a28372052c507342afd5-2266b394b39148041b.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
