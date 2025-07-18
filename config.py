@@ -12,15 +12,15 @@ load_dotenv()
 API_ID = int(getenv("API_ID","20536100"))
 API_HASH = getenv("API_HASH","5e3694deb111a38fe4aba250eb37af6a")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAGzXvqUklOpNBxtqwJ7xeGHg2m26ODSubM")
+BOT_TOKEN = getenv("BOT_TOKEN","7408662813:AAFVjRXCtR3xxzRqLo43MS6jB2Lrt07zCjU")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","IVAN")
+OWNER_USERNAME = getenv("OWNER_USERNAME","LOKI")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@Ivanxmusics_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@vicasobot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "🌊ᴡᴀᴠʏ ᴍᴜsɪᴄ🌊")
+BOT_NAME = getenv("BOT_NAME" , ".")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "WAWYMUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME" , "LOKIASSISTANT")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002734441374"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002501608775"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7550591956"))
+OWNER_ID = int(getenv("OWNER_ID", "7952111348"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,7 +67,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ivan_telegrams")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/L0KIlIl")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+m63eJ-Mc_jpjMzll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION",  "BQCOaU4AgHyUugv9cizsPudbBpIUL2Lf7aCkQlnOfappPDXYj4jeCDYHd4Fb_LST9MFLO7T34-Vo3AwQ-iBqBk6If6qbamMBNglfYwj9NCh-P12iTR5LgP0RNcaVL1wbXe5HQJj8yqzDF_443xInbpoJ1ucYdREHOjtqlk-0KPet6eeJW4A1LAp_Ag11oDS-6kQAjY6wAPJ_HxU1TOYkQ91jiOgC49k-hp_HJR6dvPLVaM-Xs5gKXo8tFurFWgplovoGDJET6KO53zpPmAzzN5x3gDNansft4JvvnOFG2P-mP5Jt_hwvNGCfT9UkFzGoTNuCDu_Z3iSzgH1cNetZNf-kqXhKVQAAAAHTjGJ1AA")
+STRING1 = getenv("STRING_SESSION",  "1BVtsOKEBuz-PFyX3eMjRVBZh3qKnDeGYSGR4IQXJWXhGvB526KXSE0MBjKvG52xv92r-eS_IB_7yoWg1gSW3qcRXstoIhugbUQaecB1vlHM5-Ex__FpQqZNIPZeykEAeoeoLXbU8WxLVWLO_IeI44QjMh8Pk8XKuxrSevxmKE4juB3XiEAMhjcY5rUVr_0Ubg-uAqKqLpkPCU2rEuFOMWSB89AImEKACFbn-VKdyAH-HVaHu1enHAD7INzbm0_kGVSQFcJIhAtIhWx8VlY6o7SF3egYiT6ACNKw-3-kLE6_zQ4_qYweUgjO-VF-0pKuIdfrzA03o5o8OyRNcP_20aMoed_sGi1c=")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
